@@ -1,11 +1,11 @@
 # Algoritmos y Estructuras de Datos
 
 > [!NOTE]
-> Contenido practico visto en la materia Algoritmos y Estructuras de Datos
+> En la parte Practica/Recursos se encuentran las implementaciones.
 
 ## [Link a las clases grabadas](https://docs.google.com/document/d/1KbsWewnOF-8gymmOr1F3S94ANO8lf0M3/edit)
 
-## Iniciar en Java
+## Iniciar en Java ☕
   - [Guía descarga del entorno](https://github.com/Piggypink8/AyED/blob/main/Practicas/Listas/2023_TP01A_JDK_Eclipse.pdf)
 
 ## Tiempo de ejecución ⌚
